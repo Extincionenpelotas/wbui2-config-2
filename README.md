@@ -16,7 +16,7 @@
       {
         "layout": 1,
         "buttontext": "Discord",
-        "imageurl": "",
+        "imageurl": "https://raw.githubusercontent.com/Extincionenpelotas/wbui2-config-2/main/8AF0C08E-7D6F-4C3C-86FE-443077F0C764.png"
         "content": [
           {
             "title": "UNETE A NUESTRA COMUNIDAD",
@@ -27,7 +27,7 @@
       {
         "layout": 1,
         "buttontext": "Bienvenida",
-        "imageurl": "",
+        "imageurl": "https://raw.githubusercontent.com/Extincionenpelotas/wbui2-config-2/main/8AF0C08E-7D6F-4C3C-86FE-443077F0C764.png"
         "content": [
           {
             "title": "BIENVENIDO A EXTINCION EN PELOTAS",
@@ -38,7 +38,7 @@
       {
         "layout": 1,
         "buttontext": "Normas",
-        "imageurl": "",
+        "imageurl": "https://raw.githubusercontent.com/Extincionenpelotas/wbui2-config-2/main/8AF0C08E-7D6F-4C3C-86FE-443077F0C764.png"
         "content": [
           {
             "title": "NORMAS OFICIALES",
@@ -49,7 +49,7 @@
       {
         "layout": 1,
         "buttontext": "Donaciones",
-        "imageurl": "",
+        "imageurl": "https://raw.githubusercontent.com/Extincionenpelotas/wbui2-config-2/main/8AF0C08E-7D6F-4C3C-86FE-443077F0C764.png"
         "content": [
           {
             "title": "APOYA NUESTRO SERVIDOR",
